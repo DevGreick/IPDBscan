@@ -16,7 +16,7 @@
 <p/>
 
 ```
-git clone https://github.com/SecZeroR/IPDBscan/tree/main/IPDBscan
+git clone https://github.com/SecZeroR/IPDBscan
 
 ```
 <p align="center">
