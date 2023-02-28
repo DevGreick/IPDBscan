@@ -1,5 +1,3 @@
-# IPDBscan1
-
 # IPDBscan
 
 <p align="center">
