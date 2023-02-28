@@ -32,9 +32,11 @@ Insira a chave no arquivo API_KEY.ini
 
 Abra o arquivo scan.exe 
 
-Escolha arquivo.txt onde os ips estão armazenados
+Clique em localizar arquivo e escolha arquivo.txt onde os ips estão armazenados
 
 Execute
+
+Os resultados serão encontrados em um arquivo excel chamado resultados.xlsx na pasta da ferramenta.
 
 ```
 
