@@ -3,7 +3,7 @@
 <p align="center">
   <img src="imagens/eagle1.png" alt="IPDB"</p>
 
-<b>Essa ferramenta permite consultar a reputação de vários IPs do AbuseIPDB em um curto período de tempo, conectando-se à API do AbuseIPDB, lendo a chave API do arquivo de configuração e gerando um relatório em formato Excel com os resultados da verificação, basta salvar os IPS em um arquivo.txt e executar no programa</b>
+<b>Essa ferramenta permite consultar a reputação de vários IPs do AbuseIPDB em um curto período de tempo, conectando-se à API do AbuseIPDB, lendo a chave API do arquivo de configuração e gerando um relatório em formato Excel com os resultados da verificação, basta salvar os IPS em um arquivo .txt e executar no programa</b>
 
 <p align="center">
   <img src="imagens/ipdb1.png" alt="IPDB"/>
