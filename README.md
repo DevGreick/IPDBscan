@@ -32,7 +32,7 @@ Insira a chave no arquivo API_KEY.ini
 
 Abra o arquivo scan.exe 
 
-Clique em localizar arquivo e escolha arquivo.txt onde os ips estão armazenados
+Clique em localizar arquivo e escolha um arquivo .txt onde os ips estão armazenados
 
 Clique em executar
 
