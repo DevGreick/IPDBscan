@@ -20,7 +20,7 @@
 
 # Versão 1.0 
 
-<a href="https://github.com/SecZeroR/IPDBscan/releases/download/idbscan/IDBscan1.0.zip">   Baixe Aqui </a></p>
+<a href="https://github.com/SecZeroR/IPDBscan/releases/download/ipdbscan/IDBscan1.0.zip">   Baixe Aqui </a></p>
 
 <p align="center">
 <b>Utilização</b> </p>
