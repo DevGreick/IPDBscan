@@ -18,7 +18,7 @@
 
 <p/>
 
-# Versão 1.0 
+# Versão 0.2 
 
 <a href="https://github.com/SecZeroR/IPDBscan/releases/download/ipdbscan/IDBscan0.2.zip">   Baixe Aqui </a></p>
 
