@@ -33,6 +33,8 @@ Acesse o link https://www.abuseipdb.com/account/api e crie sua chave API
 
 Insira a chave no arquivo API_KEY.ini
 
+Descompacte o arquivo IDBscan1.0.zip
+
 Abra o arquivo scan.exe 
 
 Clique em localizar arquivo e escolha um arquivo .txt onde os ips estão armazenados
