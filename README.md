@@ -37,7 +37,18 @@ Descompacte o arquivo IDBscan1.0.zip
 
 Abra o arquivo scan.exe 
 
-Clique em localizar arquivo e escolha um arquivo onde os ips estão armazenados
+====== utilizando um arquivo ======
+
+Clique em localizar arquivo e escolha o arquivo onde os ips estão armazenados
+
+Clique em executar
+
+Os resultados serão encontrados em um arquivo excel chamado resultados.xlsx na pasta da ferramenta.
+
+
+====== Manualmente ======
+
+copie e cole os IPS na na janela IP manual
 
 Clique em executar
 
