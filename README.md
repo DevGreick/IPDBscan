@@ -34,7 +34,7 @@ Abra o arquivo scan.exe
 
 Clique em localizar arquivo e escolha o arquivo onde os ips estão armazenados
 
-Clique em executar
+Clique em executar arquivo
 
 Os resultados serão encontrados em um arquivo excel chamado resultados.xlsx na pasta da ferramenta.
 
@@ -43,7 +43,7 @@ Os resultados serão encontrados em um arquivo excel chamado resultados.xlsx na 
 
 copie e cole os IPS na janela IP manual
 
-Clique em executar
+Clique em executar manualmente
 
 Os resultados serão encontrados em um arquivo excel chamado resultados.xlsx na pasta da ferramenta.
 
