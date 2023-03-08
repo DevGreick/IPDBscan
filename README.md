@@ -3,6 +3,7 @@
 
 <b>Essa ferramenta permite consultar a reputação de vários IPs do AbuseIPDB em um curto período de tempo, conectando-se à API do AbuseIPDB, lendo a chave API do arquivo de configuração e gerando um relatório em formato Excel com os resultados da verificação, basta salvar os IPS em um arquivo  e executar no programa</b>
 
+
 <p align="center">
   <img src="imagens/ipdbscan5.png" alt="IPDB"/>
 </p>
@@ -12,7 +13,7 @@
 <p/>
 
 # Versão 0.3
-Certifique-se de ter a ultima versão do Python instalada no seu computador.
+
 <a href="https://github.com/SecZeroR/IPDBscan/releases/download/ipdbscan0.3/IPDBscan0.3.zip">   Baixe Aqui </a></p>
 
 <p align="center">
@@ -20,6 +21,8 @@ Certifique-se de ter a ultima versão do Python instalada no seu computador.
 
 
 ```
+Certifique-se de ter a ultima versão do Python instalada no seu computador. https://www.python.org/downloads/
+
 Registre-se no site https://www.abuseipdb.com
 
 Acesse o link https://www.abuseipdb.com/account/api e crie sua chave API
