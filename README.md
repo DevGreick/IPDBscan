@@ -12,7 +12,7 @@
 <p/>
 
 # Versão 0.3
-
+Certifique-se de ter a ultima versão do Python instalada no seu computador.
 <a href="https://github.com/SecZeroR/IPDBscan/releases/download/ipdbscan0.3/IPDBscan0.3.zip">   Baixe Aqui </a></p>
 
 <p align="center">
