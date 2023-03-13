@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="imagens/ipdbscan5.png" alt="IPDB"/>
+  <img src="imagens/ipdbscan6.png" alt="IPDB"/>
 </p>
 
 <p align="center">
