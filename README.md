@@ -44,7 +44,7 @@ Os resultados serão encontrados em um arquivo excel chamado resultados.xlsx na 
 
 ====== Manualmente ======
 
-copie e cole os IPS.
+copie e cole os IPS um abaixo do outro.
 
 Clique em executar manualmente
 
