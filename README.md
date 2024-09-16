@@ -1,4 +1,4 @@
-# IPDBscan
+
 
 
 <b>Essa ferramenta permite consultar a reputação de vários IPs em um curto período de tempo, conectando-se à API, lendo a chave do arquivo de configuração e gerando um relatório em formato Excel com os resultados da verificação, basta salvar os IPS em um arquivo  e executar no programa</b>
