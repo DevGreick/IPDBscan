@@ -1,55 +1,37 @@
+# IPDBscan
 
-
-
-<b>Essa ferramenta permite consultar a reputação de vários IPs em um curto período de tempo, conectando-se à API, lendo a chave do arquivo de configuração e gerando um relatório em formato Excel com os resultados da verificação, basta salvar os IPS em um arquivo  e executar no programa</b>
-
-
-
+**IPDBscan permite consultar a reputação de múltiplos IPs rapidamente, a ferramenta se conecta à API do AbuseIPDB, lê a chave API a partir de um arquivo de configuração e gera um relatório detalhado em Excel com os resultados das verificações, basta salvar os IPs em um arquivo e executar o programa.**
 
 <p align="center">
+<a href="https://github.com/SecZeroR/IPDBscan/releases/download/ipdbscan0.3/IPDBscan0.3.zip">Baixe a última versão aqui</a>
+</p>
 
-<p/>
+## Versão 0.3
 
-# Versão 0.3
+---
 
-<a href="https://github.com/SecZeroR/IPDBscan/releases/download/ipdbscan0.3/IPDBscan0.3.zip">   Baixe Aqui </a></p>
+## Utilização
 
-<p align="center">
-<b>Utilização</b> </p>
+### Pré-requisitos
+1. **Python**: Certifique-se de ter a última versão do Python instalada. [Baixar Python](https://www.python.org/downloads/)
+2. **Chave de API**: Registre-se no [AbuseIPDB](https://www.abuseipdb.com) e crie uma chave API em [https://www.abuseipdb.com/account/api](https://www.abuseipdb.com/account/api).
+3. **Configuração**: Insira a chave no arquivo `API_KEY.ini`.
 
+### Passos para Executar
 
-```
-Certifique-se de ter a ultima versão do Python instalada no seu computador. https://www.python.org/downloads/
+1. **Descompacte o Arquivo**: Extraia `IPDBscan0.3.zip`.
+2. **Inicie o Programa**: Abra o arquivo `scan.exe`.
 
-Registre-se no site https://www.abuseipdb.com
+### Modos de Execução
 
-Acesse o link https://www.abuseipdb.com/account/api e crie sua chave API
+#### 1. Utilizando um Arquivo de IPs
+   - Clique em "Localizar Arquivo" e selecione o arquivo com os IPs a serem verificados.
+   - Clique em "Executar Arquivo".
+   - Os resultados serão gerados em um arquivo Excel chamado `resultados.xlsx`, localizado na pasta da ferramenta.
 
-Insira a chave no arquivo API_KEY.ini
+#### 2. Inserção Manual de IPs
+   - Copie e cole os IPs manualmente, um abaixo do outro.
+   - Clique em "Executar Manualmente".
+   - Os resultados serão gerados em um arquivo Excel chamado `resultados.xlsx`, localizado na pasta da ferramenta.
 
-Descompacte o arquivo IDBscan1.0.zip
-
-Abra o arquivo scan.exe 
-
-====== utilizando um arquivo ======
-
-Clique em localizar arquivo e escolha o arquivo onde os ips estão armazenados
-
-Clique em executar arquivo
-
-Os resultados serão encontrados em um arquivo excel chamado resultados.xlsx na pasta da ferramenta.
-
-
-====== Manualmente ======
-
-copie e cole os IPS um abaixo do outro.
-
-Clique em executar manualmente
-
-Os resultados serão encontrados em um arquivo excel chamado resultados.xlsx na pasta da ferramenta.
-
-```
-
-
-
-
+---
