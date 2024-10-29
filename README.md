@@ -1,6 +1,6 @@
 # IPDBscan
 
-**IPDBscan permite consultar a reputação de múltiplos IPs rapidamente, a ferramenta se conecta à API do AbuseIPDB, lê a chave API a partir de um arquivo de configuração e gera um relatório detalhado em Excel com os resultados das verificações, basta salvar os IPs em um arquivo e executar o programa.**
+**A ferramenta permite consultar a reputação de múltiplos IPs rapidamente, a ferramenta se conecta à API do AbuseIPDB, lê a chave API a partir de um arquivo de configuração e gera um relatório detalhado em Excel com os resultados das verificações, basta salvar os IPs em um arquivo e executar o programa.**
 
 <p align="center">
 <a href="https://github.com/SecZeroR/IPDBscan/releases/download/ipdbscan0.3/IPDBscan0.3.zip">Baixe a última versão aqui</a>
