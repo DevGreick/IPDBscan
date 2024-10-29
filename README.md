@@ -6,9 +6,7 @@
 <a href="https://github.com/SecZeroR/IPDBscan/releases/download/ipdbscan0.3/IPDBscan0.3.zip">Baixe a última versão aqui</a>
 </p>
 
-## Versão 0.3
 
----
 
 ## Utilização
 
